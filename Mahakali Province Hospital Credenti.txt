@@ -11,7 +11,7 @@ Mysql
 user: root
 passwd: P@ssw0rd
 
-Odoo UI--Billing
+Odoo UI--Billing Section
 user: admin
 Passwd: M@h@kali#Zonal
 
