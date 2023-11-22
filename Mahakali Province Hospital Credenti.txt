@@ -1,0 +1,51 @@
+Mahakali Province Hospital Credentials Details
+
+Server IP - 192.168.2.50
+Public IP - 124.41.242.78
+
+ssh
+user: root
+Passwd: redhat@123
+
+Mysql
+user: root
+passwd: P@ssw0rd
+
+Odoo UI--Billing
+user: admin
+Passwd: M@h@kali#Zonal
+
+Clinical--Registration
+user: superman
+passwd:Admin123
+
+Lab
+user:admin
+passwd: adminADMIN!
+
+VPN
+User: mahakali
+pswd: M@haK@lI!1@2#3
+
+Wifi (Located at Server Room X-ray room)
+user: EHR Mikrotik
+pswd: mikrotikehr
+
+Mikrotik Login Details
+IP- 192.168.2.1
+user: admin
+pswd: MZHMkt3#r
+
+
+TPlink (Deco) Wifi Password (Located at OPD Building near ENT opd room)
+user:EHR_OPD1
+pswd: Mahakali@123
+
+TPlink (Deco) Wifi Password (Located at OPD Building in the middle of General opd and Dental opd room)
+user:EHR_OPD2
+pswd: Mahakali@123
+
+NAS IP
+192.168.2.2
+user: Boss
+pswd: Nepal@123
